@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ScaleneCookie
-- 👀 I’m interested in coding and moding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning c++
+- I know java
 - 📫 How to reach, Discord @ScaleneCookie
 
 <!---
